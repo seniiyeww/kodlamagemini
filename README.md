@@ -1,0 +1,2 @@
+# kodlamagemini
+gemini özel kodlama
